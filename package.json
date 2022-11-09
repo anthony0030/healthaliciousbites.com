@@ -1,7 +1,8 @@
 {
-  "name": "my-razzle-app",
+  "name": "healthaliciousbites.com",
   "version": "1.0.0",
-  "license": "MIT",
+  "license": "NONE",
+  "private": true,
   "scripts": {
     "dev": "razzle start",
     "build": "razzle build",
