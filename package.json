@@ -9,12 +9,11 @@
     "start": "NODE_ENV=production node build/server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-router-dom": "^5.2.0"
-  },
-  "devDependencies": {
-    "razzle": "^3.3.8"
+    "bootstrap": "^5.2.2",
+    "express": "^4.18.2",
+    "razzle": "^4.2.18",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3"
   }
 }
